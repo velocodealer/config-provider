@@ -14,5 +14,3 @@ springfox:
       v2:
         path: /pricing-display-ruleSets
 
-dvs:
-    host: http://vtdevweb-dvs-services-vip.int.dealer.com
