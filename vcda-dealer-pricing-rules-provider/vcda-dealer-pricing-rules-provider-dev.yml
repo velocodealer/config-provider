@@ -1,2 +1,6 @@
 dvs:
     host: http://vtdevweb-dvs-services-vip.int.dealer.com
+
+management:
+  security:
+    enabled: true
