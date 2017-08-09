@@ -1,3 +1,6 @@
+dvs:
+    host: http://vtdevweb-dvs-services-vip.int.dealer.com
+
 example:
   property: "I AM IN THE DEFAULT"
 server:
