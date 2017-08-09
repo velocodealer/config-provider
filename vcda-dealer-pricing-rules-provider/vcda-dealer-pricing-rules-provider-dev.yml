@@ -3,4 +3,4 @@ dvs:
 
 management:
   security:
-    enabled: true
+    enabled: false
